@@ -5,7 +5,7 @@
     
  if($captcha != ''){
     
-    $secreto = '6LeCJLsdAAAAAPUfcEVmQZY8grA_kwe40QzZ2JhS';
+    $secreto = '';
     
     $ip      = $_SERVER['REMOTE_ADDR'];
     
@@ -17,7 +17,7 @@
     
    
     
-    $destino = 'isaacuchoa@gmail.com';
+    $destino = '';
     $nome = $_POST["nome"];
     $email = $_POST["email"];   
     $assunto = $_POST["assunto"];
