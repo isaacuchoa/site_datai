@@ -153,7 +153,7 @@
 									<div class="col-12">
 										<textarea name="mensagem" placeholder="Sua mensagem" autocomplete="no" required="true"></textarea>
 									</div>
-									  <div class="g-recaptcha" data-sitekey="6LeCJLsdAAAAAE6LXfvfPQUkvuxZngkDa5hkWm2_"></div>
+									  <div class="g-recaptcha" data-sitekey=""></div>
 									<div class="col-12">
 										<input type="submit" value="Enviar" />
 									</div>
